@@ -1,0 +1,56 @@
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+
+.my_courses{
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
+.mypanel{
+    background-color: #9f2752;
+    color: #fff;
+}
+
+.jumbotron {
+    background-color: #1c222a;
+    color: #fff;
+    height: 350px;
+}
+
+.jumbotron h1{
+  margin-top: 50px;
+}
+
+.my_navbar{
+    background-color: #dcdcdc;
+}
+
+body {
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    color: #818181;
+}
+
+.my_btn{
+    background-color: #edb021;
+}
+
+.round {
+    border-radius: 100px; /* Радиус скругления */
+    border: 3px solid #1c222a; /* Параметры рамки */
+    box-shadow: 0 0 7px #666; /* Параметры тени */
+}
+.my_row {
+    padding-top: 50px;
+}
+.col-sm-3{border-radius: 15px}
+
+/*.col-sm-3:hover{*/
+/*    border: 1px solid #edb021;*/
+/*    box-shadow: 0 0 15px #edb021; !* Параметры тени *!*/
+
+/*}*/
+
+
